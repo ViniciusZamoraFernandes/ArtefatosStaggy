@@ -1,2 +1,3 @@
 # ArtefatosStaggy
-Artefatos contendo todos os artefatos do Staggy
+LINK PARA APRESENTAÇÃO CONTENDO TODOS OS ARTEFATOS DE FORMA FACILITADA:
+https://canva.link/nrc7hcntod2n1vf
