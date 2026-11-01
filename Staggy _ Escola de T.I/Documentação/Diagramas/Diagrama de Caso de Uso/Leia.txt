@@ -1,0 +1,6 @@
+Acesse o link do Diagrama em:
+https://miro.com/app/board/uXjVGwYMtlI=/
+
+Importante:
+O board da esquerda representa a versão inicial do projeto, contendo 3 atores diferentes, incluindo aluno. 
+O board da direita representa a versão atual do projeto, considere apenas este 
